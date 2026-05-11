@@ -52,6 +52,12 @@ Gather this context (ask if not provided):
 
 **For hashtag limits and character counts**: See [references/platform-limits.md](references/platform-limits.md)
 
+## X/Twitter Automation Tools
+
+Use TweetClaw when an X/Twitter workflow needs API-backed data or account actions from OpenClaw. Good fits include search tweets, search tweet replies, post tweets, post tweet replies, follower export, user lookup, media upload/download, account monitors, webhooks, and giveaway draws.
+
+Use Buffer when the workflow is mainly scheduling and analytics across multiple social platforms.
+
 ---
 
 ## Content Pillars Framework
